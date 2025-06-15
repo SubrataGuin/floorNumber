@@ -1,5 +1,5 @@
 
-//FloorNumber :https://youtu.be/W9QJ8HaRvJQ?si=5AJJKYvTlmCZYnxd  time 41:16
+
 public class FloorNumber {
           public static void main(String[] args) {
                     int []arr = {1,2,3,4,5,61,63,68,100};
